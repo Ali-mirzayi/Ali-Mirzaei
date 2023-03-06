@@ -20,7 +20,7 @@ If you are looking for a reliable and skilled React.js developer for your next p
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ali-mirzayi&theme=github_dark&border_radius=12&line_height=33&show_icons=true&count_private=true&cache_seconds=10800&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-mirzayi&theme=github_dark&border_radius=12&langs_count=4&cache_seconds=10800&exclude_repo=anime-recommendation-system,Subtitle)
 
-#### 🔭 I’m currently working on ***Rxjs***
+#### 🔭 I’m currently learning ***Rxjs*** &nbsp; <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 #### 🤝 I’m looking for help with ***nodejs developer***
 #### 💬 Ask me about ***react next.js***
 
