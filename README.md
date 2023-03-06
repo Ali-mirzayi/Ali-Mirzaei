@@ -25,12 +25,15 @@ If you are looking for a reliable and skilled React.js developer for your next p
 #### 💬 Ask me about ***react next.js***
 
 ### 📫 Connect with Me
-<a href="https://api.whatsapp.com/send?phone=+989306228478" target="blank">
+<a href="https://wa.me/+989306228478" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="aliimirzaeizade" height="25" width="25" />&nbsp;
 </a>&nbsp;
-<a href="https://instagram.com/aliimirzaeizade" target="blank">
+<a href="https://msng.link/o/?aliimirzaeizade=ig" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliimirzaeizade" height="25" width="25" />&nbsp;
 </a>&nbsp;
 <a href="mailto:alimirzaei7997@gmail.com" target="_blank">
   <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/patternfly/3.59.5/img/gmail.svg" alt="aliimirzaeizade" height="25" width="25" />&nbsp;
+</a>&nbsp;
+<a href="https://msng.link/o/?alimirzaeizade=tg" target="_blank">
+  <img align="center" src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" alt="aliimirzaeizade" height="25" width="25" />&nbsp;
 </a>&nbsp;
